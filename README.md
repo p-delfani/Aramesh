@@ -2,6 +2,8 @@ Hi :)
 This project is about the makeup site, which uses html, css and js
 Let's see the site demo together
 
+Demo:
+
 ![bandicam 2023-10-04 10-02-07-199](https://github.com/p-delfani/Aramesh/assets/91133322/3344ca4a-0ba6-4ae4-80da-de81de34d977)
 
 
@@ -50,11 +52,11 @@ https://github.com/p-delfani/Aramesh/assets/91133322/58c216ea-2981-46fe-9d36-081
 
 This site was created with the help of a channel. First of all, I have to thank the YouTube channel code with sadie for useful training.
 
-I will post the code of this project and I will be happy if you use it in your projects :):)
+I will post the code of this site and I will be happy if you use it in your projects :):)
 
 for use the source first make a new folder second copy index.html and style-guide in that folder third make a new folder with css name and
 
-copy style.css forth make a folder with js name and copy  script.js  and another folder with name images for pictures (i uploeded them here)
+copy style.css forth make a folder with js name and copy  script.js  and another folder with name images for pictures (put your picture in here)
 
 now you need asset folder and copy-paste all this folder over there (css-js-images) now you have your own site 
 
